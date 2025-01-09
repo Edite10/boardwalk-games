@@ -109,4 +109,9 @@ h2 {
     #services .card-body {
         min-height: 195px;
     }
-}    
+}  
+
+/*Game library cards*/
+#new-games .card, #fav-games .card {
+border: none;
+}
